@@ -1,0 +1,116 @@
+// css code
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #03174c;
+    height: 150vh;
+}
+
+.inner-container1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png");
+    height: 60vh;
+    background-size: cover;
+    padding: 40px;
+}
+
+.heading1 {
+    text-align: center;
+    color: white;
+    font-family: "Bree Serif";
+    margin-top: 20px;
+}
+
+.para1 {
+    text-align: center;
+    color: #98a1bd;
+    font-family: "Bree Serif";
+
+}
+
+.inner-container2 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    padding: 20px;
+    height: 40vh;
+    background-size: cover;
+    margin: 24px;
+    border-radius: 13px;
+}
+
+.heading2 {
+    text-align: center;
+    color: white;
+    font-family: "Bree Serif";
+    margin-top: 20px;
+}
+
+.button {
+    border-radius: 25px;
+    background-color: #8e97fd;
+    color: white;
+    font-family: "Bree Serif";
+    text-align: center;
+    font-size: 12px;
+    padding: 5px;
+    border-width: 0px;
+}
+
+
+.image1 {
+    height: 40vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.heading3 {
+    color: white;
+    font-size: 24px;
+    font-family: "Bree Serif";
+    margin-top: 20px;
+}
+
+.para2 {
+    color: #98a1bd;
+    font-family: "Bree Serif";
+}
+
+.con {
+    padding: 10px;
+}
+
+.heading4 {
+    color: white;
+    font-size: 18px;
+    font-family: "Bree Serif";
+    margin-top: 20px;
+}
+
+.related-images {
+    height: 100px;
+    width: 150px;
+    margin-right: 10px;
+}
+
+.heading5 {
+    color: white;
+    font-size: 18px;
+    font-family: "Bree Serif";
+}
+
+.para3 {
+    color: #98a1bd;
+    font-family: "Bree Serif";
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.back-button {
+    border-radius: 25px;
+    background-color: #8e97fd;
+    color: white;
+    font-family: "Bree Serif";
+    text-align: center;
+    font-size: 12px;
+    padding: 5px;
+    border-width: 0px;
+    width: 80px;
+}
