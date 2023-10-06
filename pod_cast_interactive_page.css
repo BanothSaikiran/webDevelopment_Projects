@@ -1,0 +1,102 @@
+//css code
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.podcast-top-image-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 30vh;
+    background-size: cover;
+}
+
+.podcast-m-heading {
+    font-size: 35px;
+    font-family: "Roboto";
+    font-weight: 500;
+    color: #ffffff;
+}
+
+.puri-image {
+    height: 25vh;
+    width: 30vh;
+}
+
+.card-m-heading {
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #151765;
+}
+
+.card-episodes {
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: 500;
+    color: #5a7184;
+}
+
+.add-cards {
+    text-align: center;
+    padding: 15px;
+    margin: 20px;
+}
+
+
+
+.puri-page-m-heading {
+    font-size: 25px;
+    font-family: "Roboto";
+    color: #151765;
+}
+
+.puri-bg-card {
+    background-color: #151765;
+}
+
+.puri-page2-top-m-heading1 {
+    font-size: 15px;
+    font-family: "Roboto";
+    color: #ffffff;
+}
+
+.puri-page2-top-m-heading2 {
+    font-size: 25px;
+    font-family: "Roboto";
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.puri-page2-paragraph {
+    font-size: 15px;
+    font-family: "Roboto";
+    color: #ffffff;
+}
+
+.padding {
+    padding: 10px;
+}
+
+.puri-page2-card2-m-heading1 {
+    font-size: 25px;
+    font-family: "Roboto";
+    color: #151765;
+}
+
+.puri-page2-card2-paragraph1 {
+    font-size: 15px;
+    font-family: "Roboto";
+    color: #151765;
+}
+
+.button {
+    border-radius: 20px;
+    border-width: 0px;
+    background-color: #151765;
+    color: #ffffff;
+}
+
+.button-align {
+    text-align: right;
+}
+
+.padding-left {
+    padding: 10px;
+}
