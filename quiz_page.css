@@ -1,0 +1,76 @@
+//css code
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background-color1 {
+    background-color: #875fc0;
+    background-size: cover;
+    padding: 10px;
+}
+
+.container1 {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.score-heading {
+    color: white;
+    font-weight: bold;
+    margin-right: 28px;
+    font-size: 18px;
+    text-align: right;
+}
+
+.heading1 {
+    font-size: 25px;
+    color: #1f2933;
+    font-size: bold;
+    font-family: "Roboto";
+    text-align: center;
+}
+
+.para2 {
+    color: #323f4b;
+    text-align: center;
+    font-family: "Roboto";
+}
+
+.container1-inner-container {
+    background-color: #1f2933;
+    border-radius: 10px;
+    height: 150px;
+    width: 280px;
+}
+
+.button {
+    margin: 10px;
+    color: #323f4b;
+    border-width: 1px;
+    border-style: solid;
+    background-color: white;
+    border-radius: 10px;
+    height: 50px;
+    padding: 12px;
+    font-weight: 500px;
+    width: 260px;
+}
+
+.button-color {
+    background-color: #875fc0;
+    color: white;
+}
+
+.submit-button {
+    background-color: #fbaf00;
+    height: 50px;
+    width: 130px;
+    color: white;
+    border-width: 0px;
+    border-radius: 8px;
+}
+
+.list1 {
+    list-style-type: none;
+    padding: 0px;
+}
