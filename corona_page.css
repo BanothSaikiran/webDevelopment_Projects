@@ -1,0 +1,103 @@
+//css code
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg1 {
+    padding: 20px;
+}
+
+.heading1 {
+    color: #707070;
+    font-size: 20px;
+    font-family: "Roboto";
+}
+
+.bg2 {
+    background-color: #0967d219;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.heading2 {
+    font-size: 16px;
+    color: #323f4b;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.para2 {
+    font-size: 12px;
+    color: #707070;
+    font-weight: 500;
+    font-family: "Roboto";
+}
+
+.image2 {
+    padding: 10px;
+}
+
+.heading3 {
+    color: #707070;
+    font-size: 18px;
+    margin: 10px;
+    font-family: "Roboto";
+}
+
+.symptoms-image1 {
+    background-color: #3ebd93;
+    margin: 10px;
+    border-radius: 10px;
+    height: 90px;
+    width: 80px;
+    padding: 10px;
+}
+
+.para-images {
+    font-size: 10px;
+    text-align: center;
+    color: white;
+    font-family: "Roboto";
+}
+
+.symptoms-image2 {
+    background-color: #e668a7;
+    margin: 10px;
+    border-radius: 10px;
+    height: 90px;
+    width: 80px;
+    padding: 10px;
+}
+
+.symptoms-image3 {
+    background-color: #a368fc;
+    margin: 10px;
+    border-radius: 10px;
+    height: 90px;
+    width: 80px;
+    padding: 10px;
+}
+
+.heading4 {
+    color: #707070;
+    font-size: 18px;
+    margin: 10px;
+    font-family: "Roboto";
+}
+
+.bg3 {
+    background-color: #e12d3919;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.heading5 {
+    font-size: 15px;
+    color: #323f4b;
+}
+
+.para3 {
+    color: #707070;
+    font-size: 12px;
+    font-weight: 500px;
+}
